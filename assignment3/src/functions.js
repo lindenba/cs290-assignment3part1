@@ -13,7 +13,7 @@
 */
 
 //your code here
-function unlessFunction() {
+function uselessFunction() {
   return null;
 }
 //end your code
@@ -32,12 +32,12 @@ var barType = typeof bar;
 */
 
 //your code here
-bar = function(doubleArray) {
+var bar = function(doubleArray) {
   for (var i = 0; i < doubleArray.length; i++)
   {
     doubleArray[i] *= 2;
   }
-  if (doubleArray == 'number')
+  if (doubleArray === 'number')
   return true;
   else
   return false;
@@ -79,6 +79,6 @@ function GitLog(hash, date, message) {
 //your code here
 function parseGit(hash, date, message)
 {
-  
+
 }
 //end your code
