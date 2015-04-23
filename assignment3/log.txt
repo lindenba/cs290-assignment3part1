@@ -4,3 +4,29 @@ Example work log to follow
 Start: Wed, 7 Jan 2015 21:42:26 -0800
 End: Wed, 7 Jan 2015 22:42:26 -0800
 Tasks: During this period I drew a diagram of the classes I will be using to implement the message passing portion of the assignment.
+
+
+Start: Mon, 20 Apr 2015 16:30:23 -0800
+End: Mon, 20 Apr 2015 17:00:54 -0800
+Tasks: Cloned repository.  Looked at first function added code for first.  Downloaded linter extensions.
+
+
+Start: Wed, 22 Apr 2015 10:30:36 -0700
+End: Wed, 22 Apr 2015 11:15:36 -0700
+Tasks: Fixed linter error and started working on function.js file
+
+Start: Wed, 22 Apr 2015 11:15:36 -0700
+End: Wed, 22 Apr 2015 12:44:34 -0700
+Tasks: Haven't finished function.js, but was working on functions.  Not sure how to check if everything is working.  Would be nice to have a little bit more guidance on how all this works. How to launch from atom into browser to check work.  Still not sure how it works.
+
+Start: Wed, 22 Apr 2015 13:30
+End: Wed, 22 Apr 2015 14:00:49 -0700
+Tasks: Finally found the html to launch to check work. Got uselessFunction to pass.  Working on others. Not understand object literals.
+
+Start: Wed, 22 Apr 2015 17:15
+End: Wed, 22 Apr 2015 17:54:21 -0700
+Tasks: Worked on function code, object, and variable code.  Only have one done uselessFunction.  Had the isNull tests, but wasn't correct.
+
+Start: Wed, 22 Apr 2015 19:30
+End: Thu, 23 Apr 2015 01:27:20 -0700
+Tasks: Started working on src file with many starts and stops.  Figured out the parseGit about 9pm.  Started working on the MessageLog functions after finally finished.
